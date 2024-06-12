@@ -15,7 +15,7 @@ h1 {
     color: var(--favoriteColor);
     font-family: var (--favoriteFont);
     margin: 0 auto;
-    
+    font-size: 5.5vh;
 }
 
 .navBar {
