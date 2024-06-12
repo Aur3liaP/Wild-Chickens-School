@@ -97,6 +97,14 @@
       "imgSrc": "assets/ÉliseCoquille.png",
       "position": "Student",
       "biography": " Créatrice d'œufs artistiques, chaque œuf est une œuvre d'art."
+    },
+    {
+        "id" : 15,
+      "name": "Aurélia Pic",
+      "imgSrc": "assets/AuréliaPique.jpeg",
+      "position": "Développeuse",
+      "biography": " Tente de survivre après 2 jours sur React."
     }
+    
   ]
 }

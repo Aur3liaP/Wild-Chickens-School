@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Judson:ital,wght@0,400;0,700;1,400&display=swap');
+
+
+:root {
+    --favoriteFont : "Judson", serif;
+    --favoriteColor : #fc127b;
+}
+
+h2 {
+    text-align: center;
+    padding: 2%;
+    font-weight: 700;
+}
+
+.container{
+    margin-bottom: 12vh;
+}
+
+.chickensContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 5vh;
+    
+}
